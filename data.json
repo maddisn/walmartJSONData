@@ -1,0 +1,46 @@
+{
+   "data":[
+      {
+         "name":"Currito Burritos Without Borders",
+         "coords":{
+            "lat":39.128421,
+            "lng":-84.5160117
+         }
+      },
+      {
+         "name":"Insomnia Cookies",
+         "coords":{
+            "lat":39.1282273,
+            "lng":-84.5152463
+         }
+      },
+      {
+         "name":"Buffalo Wild Wings",
+         "coords":{
+            "lat":39.1283773,
+            "lng":-84.5148008
+         }
+      },
+      {
+         "name":"Panera Bread",
+         "coords":{
+            "lat":39.1283022,
+            "lng":-84.5141549
+         }
+      },
+      {
+         "name":"Smoothie King",
+         "coords":{
+            "lat":39.128028,
+            "lng":-84.515471
+         }
+      },
+      {
+         "name":"Keystone Bar & Grill",
+         "coords":{
+            "lat":39.128315,
+            "lng":-84.516655
+         }
+      }
+   ]
+}
